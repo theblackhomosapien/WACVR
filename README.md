@@ -13,7 +13,7 @@ Open Source VR Arcade Simulator
 - 3rd person camera and smooth camera
 - 4 customizable buttons
 
-**Supported platform**
+**Supported platforms**
 ---
 
 - All SteamVR devices (Index，HTC，Oculus, etc.)
@@ -26,7 +26,7 @@ Open Source VR Arcade Simulator
 - [uWindowCapture](https://github.com/hecomi/uWindowCapture)
 - [MaiDXR](https://github.com/xiaopeng12138/MaiDXR)
 
-**Declaimer**
+**Disclaimer**
 ---
 
 - This project is non-profit and some resources came from Internet!
